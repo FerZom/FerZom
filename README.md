@@ -11,5 +11,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferzom&show_icons=true&locale=en&layout=compact" alt="ferzom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferzom&show_icons=true&locale=en" alt="ferzom" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferzom&" alt="ferzom" /></p>
