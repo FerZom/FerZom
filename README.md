@@ -18,13 +18,6 @@
 </p>
 
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=FerZom&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerZom&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=FerZom&theme=nord" width="%100" height="150px" alt="stats" />
-</details>
-
-<details align="center">
   <summary style="font-weight: bold; font-size: 18px">İlgi Alanlarım</summary>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
