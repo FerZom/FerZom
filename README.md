@@ -15,7 +15,7 @@
    <br>
 <img src="https://count.getloli.com/get/@FerZom?theme=moebooru" alt="FerZom" />
 </p>
-<p align="center"><img align="center" src="https://lanyard.cnrad.dev/api/330292439040393216"></p>   
+<p align="center"><img align="center" src="https://lanyard.cnrad.dev/api/371286579462799360"></p>   
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">İlgi Alanlarım</summary>
    <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>
