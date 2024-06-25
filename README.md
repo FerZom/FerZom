@@ -13,7 +13,7 @@
    <a href="https://steamcommunity.com/id/ZaphkieL0666/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31eufqfw7aitizyyt2zsootuxrju?si=5aa93c01bc264750" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <br>
-<img src="https://count.getloli.com/get/@FerZom?theme=moebooru" alt="FerZom" />
+<!-- <img src="https://count.getloli.com/get/@FerZom?theme=moebooru" alt="FerZom" /> -->
 </p>
 <p align="center"><img align="center" src="https://lanyard.cnrad.dev/api/371286579462799360"></p>   
 <details align="center">
